@@ -1,0 +1,16 @@
+.cool {
+    background-color: rgb(255,153,153);
+    font-family: Verdana, sans-serif;
+}
+.cooler {
+    font-size: 24px;
+}
+#line-two {
+    color: blue;
+    font-size: 36px;
+}
+#line-four {
+    background-color: rgb(122, 255, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
